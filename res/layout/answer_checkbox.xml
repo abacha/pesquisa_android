@@ -1,0 +1,5 @@
+<CheckBox xmlns:android="http://schemas.android.com/apk/res/android"
+	android:textColor="#008B00"
+	android:id="@+id/answer_checkbox_item"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content" />

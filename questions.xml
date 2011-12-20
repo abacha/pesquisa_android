@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<item type="integer" name="questions">21</item>
+	<item type="integer" name="survey">2</item>
+	<array name="question0">
+		<item name="type">1</item>
+		<item>Esta é a sua primeira visita a PET-SOUTH AMERICA 2011?</item>
+		<item>Sim</item>
+		<item>OPEN;Não. Quantas vezes já visitou?</item>
+	</array>
+	<array name="question1">
+		<item name="type">0</item>
+		<item>Como o(a) Sr(a). ficou sabendo sobre a PET- SOUTH AMERICA 2011?</item>
+		<item>Mailing/mala direta</item>
+		<item>Equipe comercial/Representantes</item>
+		<item>Convites pelo correio</item>
+		<item>Convites por e-mail</item>
+		<item>Panfletos/Folders</item>
+		<item>Telefone</item>
+		<item>OPEN;Revistas</item>
+		<item>OPEN;Jornais</item>
+		<item>OPEN;Outros</item>
+	</array>
+	<array name="question2">
+		<item name="type">1</item>
+		<item>Em relação à campanha de divulgação da PET- SOUTH AMERICA 2011 por e-mail, qual a sua opinião em relação a quantidade de mensagens eletrônicas recebidas?</item>
+		<item>Abaixo do Necessário</item>
+		<item>Dentro do Necessário</item>
+		<item>Acima do Necessário</item>
+	</array>
+	<array name="question3">
+		<item name="type">1</item>
+		<item>O(a) Sr(a). acessou os sites da PET- SOUTH AMERICA 2011?</item>
+		<item>Sim</item>
+		<item>1;Não</item>
+	</array>
+	<array name="question4">
+		<item name="type">2</item>
+		<item>Que nota o Sr(a). atribui para o site?</item>
+		<item name="max">10</item>
+		<item></item>
+	</array>
+	<array name="question5">
+		<item name="type">2</item>
+		<item>Considerando uma escala de notas de 0 a 10, onde 0 é péssimo e 10 é ótimo, que nota o(a) Sr(a). atribui para o evento, em relação à:</item>
+		<item name="max">10</item>
+		<item>Facilidade de Acesso</item>
+		<item>Estacionamento</item>
+		<item>Credenciamento</item>
+		<item>Sanitários</item>
+		<item>Alimentação</item>
+		<item>Organização do evento</item>
+		<item>Limpeza Geral</item>
+		<item>Nota para a feira como um todo</item>
+	</array>
+	<array name="question6">
+		<item name="type">1</item>
+		<item>A PET-SOUTH AMERICA 2011:</item>
+		<item>Superou suas Expectativas</item>
+		<item>Atingiu Plenamente suas Expectativas</item>
+		<item>OPEN;Atingiu Parcialmente suas Expectativas. Por que?</item>
+		<item>OPEN;Não Atingiu suas Expectativas. Por que?</item>
+	</array>
+	<array name="question7">
+		<item name="type">4</item>
+		<item>Por grau de prioridade, qual(is) o(s) seu(s) principal(is) interesse(s) ao visitar os eventos?</item>
+		<item>Buscar Fornecedores Potenciais</item>
+		<item>Buscar Parcerias Estratégicas</item>
+		<item>Contatar com Clientes Potenciais</item>
+		<item>Contatar com Novas Tecnologias / Conceitos</item>
+		<item>Divulgar a Empresa (Produtos / Serviços)</item>
+		<item>Networking Profissional</item>
+		<item>Participar do Congresso</item>
+		<item>Levantar as oportunidades de negócios</item>
+		<item>Fechar negócios</item>
+		<item>OPEN;Outros</item>
+	</array>
+	<array name="question8">
+		<item name="type">1</item>
+		<item>Você estabeleceu novas parcerias durante o evento?</item>
+		<item>Sim</item>
+		<item>Não</item>
+	</array>
+	<array name="question9">
+		<item name="type">1</item>
+		<item>Você fechou negócio durante o evento?</item>
+		<item>Sim</item>
+		<item>Não</item>
+	</array>
+
+	<array name="question10">
+		<item name="type">1</item>
+		<item>Você pretende comprar/contratar algum produto/serviço que conheceu durante a PET-SOUTH AMERICA?</item>
+		<item>Sim</item>
+		<item>OPEN;Não. Por quê?</item>
+	</array>
+	<array name="question11">
+		<item name="type">1</item>
+		<item>Quanto aos produtos e serviços expostos, eles atenderam as suas expectativas?</item>
+		<item>Sim</item>
+		<item>OPEN;Não. Por quê?</item>
+	</array>
+	<array name="question12">
+		<item name="type">1</item>
+		<item>Sobre os produtos e serviços de seu interesse, você obteve informações por parte dos Expositores?</item>
+		<item>Foi atendido, Informações Suficientes</item>
+		<item>Foi atendido, mais as informações não foram suficientes</item>
+		<item>Não foi atendido</item>
+	</array>
+	<array name="question13">
+		<item name="type">1</item>
+		<item>O horário do evento das 13:00 às 21:00 é adequado às suas necessidades?</item>
+		<item>Sim</item>
+		<item>OPEN;Não. Qual é mais adequado?</item>
+	</array>
+	<array name="question14">
+		<item name="type">1</item>
+		<item>Os dias de funcionamento são adequados?</item>
+		<item>Sim </item>
+		<item>OPEN;Não. Quais são mais adequados?</item>
+	</array>
+	<array name="question15">
+		<item name="type">1</item>
+		<item>De que forma você deseja se atualizar sobre o setor?</item>
+		<item>Meio eletrônico/ Internet</item>
+		<item>Meios impressos</item>
+		<item>Ambos</item>
+	</array>
+	<array name="question16">
+		<item name="type">3</item>
+		<item>Qual empresa o Sr(a) gostaria de ver na PET-SOUTH AMERICA 2011?</item>
+		<item name="lines">1</item>
+		<item></item>
+	</array>
+	<array name="question17">
+		<item name="type">3</item>
+		<item>Quais os produtos Sr(a) gostaria de encontrara PET-SOUTH AMERICA 2011</item>
+		<item name="lines">1</item>
+		<item></item>
+	</array>
+	<array name="question18">
+		<item name="type">1</item>
+		<item>O(a) Sr(a). tem interesse em visitar a próxima edição da PET-SOUTH AMERICA?</item>
+		<item>Sim</item>
+		<item>OPEN;Não</item>
+	</array>
+	<array name="question19">
+		<item name="type">1</item>
+		<item>Sua empresa teria interesse em participar como expositor da PET-SOUTH AMERICA?</item>
+		<item>OPEN;Sim, quero um contato da organização. Preencha com o seu nome e telefone</item>
+		<item>Não</item>
+	</array>
+	<array name="question20">
+		<item name="type">3</item>
+		<item>o Sr(a) gostaria de fazer alguma critica ou sugestão sobre a feira?</item>
+		<item name="lines">1</item>
+		<item></item>
+	</array>
+</resources>

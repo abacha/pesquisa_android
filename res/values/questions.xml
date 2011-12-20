@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<item type="integer" name="questions">33</item>
+	<item type="integer" name="survey">1</item>
+	<array name="question0">
+		<item name="type">0</item>
+		<item name="question">Qual a área de atuação de sua empresa?</item>
+		<item>Acessórios</item>
+		<item>Nutrição</item>
+		<item>Equipamentos</item>
+		<item>Saúde Animal</item>
+		<item>Especialidade Veterinária</item>
+		<item>Serviços</item>
+		<item>Publicações</item>
+		<item>Aquarismo</item>
+		<item>Farmacêutica</item>
+		<item>Cosmética</item>
+		<item>Laboratorial</item>
+		<item>Alimentícia</item>
+		<item>Aquicultura</item>
+		<item>Bebidas</item>
+		<item>Vidro</item>
+		<item>Construção</item>
+		<item>OPEN;Outros</item>
+	</array>
+	<array name="question1">
+		<item name="type">0</item>
+		<item name="question">Com quais produtos sua empresa trabalha?</item>
+		<item>Acessórios</item>
+		<item>Nutrição</item>
+		<item>Equipamentos</item>
+		<item>Saúde Animal</item>
+		<item>Especialidade Veterinária</item>
+		<item>Serviços</item>
+		<item>Publicações</item>
+		<item>Específicos para aquarismo</item>
+		<item>Específicos para pássaros</item>
+		<item>Específicos para equinos</item>
+		<item>OPEN;Outros</item>
+	</array>
+	<array name="question2">
+		<item name="type">0</item>
+		<item name="question">Sua empresa é?</item>
+		<item>Fabricante nacional</item>
+		<item>Fabricante internacional</item>
+		<item>Importador</item>
+		<item>Distribuidora</item>
+		<item>OPEN;Outros</item>
+	</array>
+	<array name="question3">
+		<item name="type">2</item>
+		<item name="question">Numa escala de 0 a 10, qual a importancia da PET SOUTH AMERICA 2011 para estrategia de marketing de sua empresa?</item>
+		<item name="max">10</item>
+		<item></item>
+	</array>
+	<array name="question4">
+		<item name="type">4</item>
+		<item name="question">Responda em grau de prioridade qual e o objetivo de sua empresa ao expor nos eventos?</item>
+		<item>Encontrar clientes tradicionais</item>
+		<item>Promover a marca da sua empresa, produtos e/ou serviços</item>
+		<item>Iniciar contratos para a realização futura de negócios</item>
+		<item>Observar produtos e serviços da concorrência</item>
+		<item>Lançar novos produtos, serviços e tecnologias</item>
+		<item>Analisar o mercado/concorrência</item>
+		<item>Fechar negócios</item>
+		<item>Find local distributors (SOMENTE PARA EXPOSITORES INTERNACIONAIS)</item>
+		<item>OPEN;Outros</item>
+	</array>
+	<array name="question5">
+		<item name="type">0</item>
+		<item name="question">Como o(a) Sr(a). tomou conhecimento do evento?</item>
+		<item>Email Marketing</item>
+		<item>Internet</item>
+		<item>Recomendação</item>
+		<item>Outros eventos</item>
+		<item>Mídia / Assessoria de Imprensa</item>
+		<item>Revista</item>
+		<item>Comercial</item>
+		<item>Outra empresa expositora</item>
+		<item>OPEN;Eventos internacionais. Quais?</item>
+		<item>OPEN;Outros</item>
+	</array>
+	<array name="question6">
+		<item name="type">2</item>
+		<item name="question">Numa escala de 0 a 10, como o(a) Sr(a). avalia a divulgação do evento?</item>
+		<item name="max">10</item>
+		<item></item>
+	</array>
+	<array name="question7">
+		<item name="type">1</item>
+		<item name="question">O(a) Sr(a). acessou o site da PET SOUTH AMERICA 2011?</item>
+		<item>Sim</item>
+		<item>1;Nao</item>
+	</array>
+	<array name="question8">
+		<item name="type">2</item>
+		<item name="question">Que nota o Sr(a). atribui para este site?</item>
+		<item name="max">10</item>
+		<item></item>
+	</array>
+	<array name="question9">
+		<item name="type">2</item>
+		<item name="question">Considerando uma escala de notas de 0 a 10, onde 0 é péssimo e 10 é ótimo, que nota o(a) Sr(a). atribui para o evento, em relação à:</item>
+		<item name="max">10</item>
+		<item>Local dos eventos</item>
+		<item>Facilidade de Acesso</item>
+		<item>Estacionamento</item>
+		<item>Serviço de Transfer</item>
+		<item>Quantidade de Convites Disponibilizados</item>
+		<item>Organização dos eventos</item>
+		<item>Segurança Geral</item>
+		<item>Segurança do Estande</item>
+		<item>Limpeza Geral</item>
+		<item>Limpeza do Estande</item>
+		<item>Paisagismo</item>
+		<item>Sanitários</item>
+		<item>Serviço de Aliemtanção</item>
+		<item>Espaço Físico Disponibilizado</item>
+		<item>Serviço de coleta de dados</item>
+		<item>Climatização</item>
+		<item>Apoio da Organização</item>
+		<item>Agência de Viagens</item>
+		<item>Número de Visitantes</item>
+		<item>Qualificação do Público Visitante</item>
+		<item>Calendário/Período de realização do evento</item>
+		<item>Internet</item>
+	</array>
+	<array name="question10">
+		<item name="type">1</item>
+		<item name="question">Os dias e horários de funcionamento do evento foram adequados às suas necessidades?</item>
+		<item>1;Sim</item>
+		<item>Não</item>
+	</array>
+	<array name="question11">
+		<item name="type">3</item>
+		<item name="question">Quais dias e horários seriam mais adequados?</item>
+		<item name="lines">1</item>
+		<item></item>
+	</array>
+	<array name="question12">
+		<item name="type">1</item>
+		<item name="question">Na sua opinião, a visitação de estudante é importante?</item>
+		<item>Sim</item>
+		<item>1;Não</item>
+	</array>
+	<array name="question13">
+		<item name="type">3</item>
+		<item name="question">Qual seria o horário ideal?</item>
+		<item name="lines">1</item>
+		<item></item>
+	</array>
+		<array name="question14">
+		<item name="type">1</item>
+		<item name="question">A PET SOUTH AMERICA 2011:</item>
+		<item>Superou suas Expectativas</item>
+		<item>Atingiu Plenamente suas Expectativas</item>
+		<item>Não Atingiu suas Expectativas</item>
+	</array>
+	<array name="question15">
+		<item name="type">2</item>
+		<item name="question">Quanto ao atendimento que antecede o evento que nota o(a) Sr(a). atribui para?</item>
+		<item name="max">10</item>
+		<item>Comercial</item>
+		<item>Marketing</item>
+		<item>Operacional</item>
+		<item>Financeiro</item>
+		<item>Banco de dados</item>
+		<item>Congresso</item>
+	</array>
+	<array name="question16">
+		<item name="type">2</item>
+		<item name="question">Qual nota você daria para o atendimento prestado durante a montagem?</item>
+		<item name="max">10</item>
+		<item></item>
+	</array>
+	<array name="question17">
+		<item name="type">1</item>
+		<item name="question">Sua empresa fechou negócios ou tem a expectativa de fechar negócios em função da PET SOUTH AMERICA 2011?</item>
+		<item>Sim</item>
+		<item>2;Não</item>
+	</array>
+	<array name="question18">
+		<item name="type">1</item>
+		<item name="question">Vocês estabeleceram contatos com novos clientes durante a exposição</item>
+		<item>1-10 novos contatos</item>
+		<item>11-20 novos contatos</item>
+		<item>Mais de 21 novos contatos</item>
+		<item>não houve novos contatos</item>
+	</array>
+	<array name="question19">
+		<item name="type">1</item>
+		<item name="question">Os novos contatos eram de onde?</item>
+		<item>Principalmento do Brasil</item>
+		<item>De vários países da América do Sul</item>
+		<item>De outros países</item>
+	</array>
+	<array name="question20">
+		<item name="type">0</item>
+		<item name="question">De qual setor sua empresa recebeu mais visitantes?</item>
+		<item>Acessórios</item>
+		<item>Especialidade Veterinária</item>
+		<item>Equipamentos</item>
+		<item>Aquarismo</item>
+		<item>Saúde Animal</item>
+		<item>Nutrição</item>
+		<item>Publicações</item>
+		<item>Serviços</item>
+		<item>OPEN;Outros</item>
+	</array>
+	<array name="question21">
+		<item name="type">0</item>
+		<item name="question">De qual setor sua empresa gostaria de receber mais visitantes?</item>
+		<item>Acessórios</item>
+		<item>Especialidade Veterinária</item>
+		<item>Equipamentos</item>
+		<item>Aquarismo</item>
+		<item>Saúde Animal</item>
+		<item>Nutrição</item>
+		<item>Publicações</item>
+		<item>Serviços</item>
+		<item>OPEN;Outros</item>
+	</array>
+	<array name="question22">
+		<item name="type">0</item>
+		<item name="question">Na sua opinião, quais são as 3 revistas (nacionais e internacionais) mais importantes para o setor?</item>
+		<item>Revista Pet Shop Business</item>
+		<item>Revista Negócios Pet</item>
+		<item>Revista Clínica Veterinária</item>
+		<item>Revista Nosso Clinico</item>
+		<item>Revista MedVep</item>
+		<item>Revista Anclivepa-SP</item>
+		<item>Pets International Magazine</item>
+		<item>Pets International Magazine</item>
+		<item>Revista Passarinheiros</item>
+		<item>Revista Programa Animal</item>
+		<item>Revista Pulo do Gato</item>
+		<item>Revista Cães Supreme</item>
+		<item>Revista Super Mascotas</item>
+		<item>Site PetBR</item>
+		<item>Site PetLink</item>
+		<item>Portal Veterinaria.com</item>
+		<item>Pet in Europe</item>
+		<item>OPEN;Outras</item>
+	</array>
+	<array name="question23">
+		<item name="type">1</item>
+		<item name="question">Qual é a sua impressão geral sobre a Pet South América deste ano?</item>
+		<item>Péssima</item>
+		<item>Ruim</item>
+		<item>Regular</item>
+		<item>Boa</item>
+		<item>Muito Boa</item>
+	</array>
+	<array name="question24">
+		<item name="type">1</item>
+		<item name="question">Como o(a) Sr.(a) compara esta edição da feira em relação à edições passadas:</item>
+		<item>Muito Melhor</item>
+		<item>Melhor</item>
+		<item>Igual</item>
+		<item>Pior</item>
+		<item>Muito Pior</item>
+	</array>
+	<array name="question25">
+		<item name="type">1</item>
+		<item name="question">Sua empresa tem interesse em participar da PET SOUTH AMERICA em 2012?</item>
+		<item>Sim</item>
+		<item>Não</item>
+	</array>
+
+	<array name="question26">
+		<item name="type">0</item>
+		<item name="question">Em quais mídias a sua empresa costuma anunciar?</item>
+		<item>Internet</item>
+		<item>Jornais</item>
+		<item>Mala Direta</item>
+		<item>Rádios</item>
+		<item>Revistas Especializadas</item>
+		<item>Revistas de Interesse Geral</item>
+		<item>Televisão</item>
+		<item>OPEN;Outros</item>
+	</array>
+	<array name="question27">
+		<item name="type">1</item>
+		<item name="question">Sua empresa participa de algum outro evento/feira/congresso?</item>
+		<item>OPEN;Sim</item>
+		<item>Não</item>
+	</array>
+	<array name="question28">
+		<item name="type">3</item>
+		<item name="question">Quais são os eventos mais importantes do setor no Brasil?</item>
+		<item name="lines">1</item>
+		<item></item>
+	</array>
+	<array name="question29">
+		<item name="type">3</item>
+		<item name="question">Quais são os eventos mais importantes do setor fora do Brasil?</item>
+		<item name="lines">1</item>
+		<item></item>
+	</array>
+	<array name="question30">
+		<item name="type">0</item>
+		<item name="question">De que recursos sua empresa se utilizou para maximizar sua participação na PET SOUTH AMERICA 2011?</item>
+		<item>Mala direta</item>
+		<item>Ação próxima ao evento</item>
+		<item>Atendimento diferenciado no estande</item>
+		<item>Publicação de releases na imprensa</item>
+		<item>Campanha de email</item>
+		<item>Divulgação no seu website</item>
+		<item>OPEN;Outros</item>
+	</array>
+	
+	<array name="question31">
+		<item name="type">0</item>
+		<item name="question">Quais ferramentas de Marketing são utilizadas por sua empresa para promover seus produtos/serviços?</item>
+		<item>Eventos B2B</item>
+		<item>Eventos B2C</item>
+		<item>Eventos próprios</item>
+		<item>Revista do seu segmento</item>
+		<item>Revistas de negócios</item>
+		<item>Websites</item>
+		<item>Seminários/Congressos</item>
+		<item>Campanhas de email</item>
+		<item>Mala direta</item>
+		<item>Catálogos e folders</item>
+		<item>TV</item>
+		<item>Rádio</item>
+		<item>Jornais</item>
+		<item>Notícias para o Website</item>
+		<item>Anúncio no catálogo oficial</item>
+		<item>Lançamento/produto para o newsletter impresso</item>
+		<item>Merchandising</item>
+		<item>Etiquetas adesivas "Visite-nos"</item>
+		<item>Web banner do evento "Visite-nos"</item>
+		<item>Convite eletrônico</item>
+		<item>Convite impressos</item>
+		<item>Antes do evento: releases para assessoria de imprensa do evento</item>
+		<item>Depois do evento: releases para assessoria de imprensa do evento</item>
+		<item>OPEN;Outros</item>
+	</array>
+	<array name="question32">
+		<item name="type">1</item>
+		<item name="question">Qual é a sua perspectiva sobre o setor para os próximos anos?</item>
+		<item>Crescimento</item>
+		<item>Estagnação</item>
+		<item>Declínio</item>
+	</array>
+</resources>
